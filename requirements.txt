@@ -1,0 +1,16 @@
+langchain_core
+langchain_openai
+python-dotenv
+streamlit
+langchain_community
+#langserve
+#fastapi
+uvicorn
+bs4
+#chromadb
+faiss-cpu
+#pypdf
+#wikipedia
+#arxiv
+langchainhub
+groqs
