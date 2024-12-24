@@ -1,0 +1,38 @@
+Land Area Requirements for AICTE Approval
+Location Classification:
+
+Institutions are classified based on their location:
+Rural Places: Defined by the competent authority as rural.
+Other than Rural Places: Certified by the competent authority as not located in a rural area.
+Land Area Requirements for Technical Programs:
+
+Engineering & Technology:
+In rural places: Minimum land required is 10 acres for UG programs, 5 acres for diploma programs, and 10 acres for PG programs.
+In non-rural places: Minimum land required is 2.5 acres for UG programs, 1.5 acres for diploma programs, and 2.5 acres for PG programs.
+Pharmacy:
+In rural places: Minimum land required is 2 acres for all programs (UG, diploma, and PG).
+In non-rural places: Minimum land required is 0.75 acres for all programs (UG, diploma, and PG).
+Architecture & Town Planning:
+In rural places: Minimum land required is 2.5 acres for all programs (UG, diploma, and PG).
+In non-rural places: Minimum land required is 1 acre for all programs (UG, diploma, and PG).
+Applied Arts & Crafts:
+In rural places: Minimum land required is 2 acres for all programs (UG, diploma, and PG).
+In non-rural places: Minimum land required is 0.75 acres for all programs (UG, diploma, and PG).
+Hotel Management & Catering Technology (HMCT):
+In rural places: Minimum land required is 2.5 acres for all programs (UG, diploma, and PG).
+In non-rural places: Minimum land required is 1 acre for all programs (UG, diploma, and PG).
+MCA:
+In rural places: Minimum land required is 1.5 acres for PG programs.
+In non-rural places: Minimum land required is 0.5 acres for PG programs.
+Management:
+In rural places: Minimum land required is 1 acre for PG programs.
+In non-rural places: Minimum land required is 0.5 acres for PG programs.
+Approval Criteria:
+
+The land area must meet the minimum size requirements based on program type and location.
+Institutions must obtain certification of location classification (rural or non-rural) from competent authorities.
+For institutions offering multiple programs, the land area should be sufficient to cumulatively meet the requirements for all programs offered.
+Special Notes:
+
+Rural institutions generally require more land due to infrastructural and operational demands.
+Stand-alone post-graduate programs have the same land requirements as undergraduate programs in most cases.

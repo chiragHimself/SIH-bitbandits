@@ -1,0 +1,30 @@
+1. Legibility and Quality
+Ensure the floor plan is clear, with no blurred or missing sections.
+Labels and text (e.g., room names, dimensions) should be readable.
+Lines and boundaries should be well-defined and not broken.
+2. Annotation and Labeling
+All rooms and spaces should be labeled with their respective names and dimensions (e.g., "Kitchen 14.8 m²").
+Measurements should be provided in standard units (e.g., meters or feet).
+3. Scale and Proportions
+The scale should be mentioned or visually consistent.
+Proportions of rooms, walls, and furniture should make sense (e.g., no oversized doors compared to the room).
+4. Completeness
+Ensure all key spaces (e.g., living areas, bedrooms, kitchen, bathroom) are present.
+Additional features such as balconies, hallways, or utility rooms should be appropriately included if applicable.
+5. Architectural Accuracy
+Walls, doors, and windows should be accurately represented with clear symbols or labels.
+Staircases (if any) should be correctly shown with appropriate labeling.
+6. Orientation
+Check for indications of direction (e.g., north arrow) if the orientation is critical for processing.
+The layout should follow a logical flow (e.g., bedrooms near bathrooms).
+7. Furniture and Fixtures
+Furniture placement should align with the room type (e.g., sofa in the living room, bed in the bedroom).
+Fixtures like sinks, stoves, and toilets should be included where necessary.
+8. Consistency
+The room dimensions and areas mentioned should be consistent and realistic.
+No overlapping or conflicting information (e.g., two areas labeled as the same space).
+9. Language and Symbols
+The language of labels should be supported by your LLM.
+Symbols and conventions (e.g., for doors, stairs, or furniture) should align with architectural standards.
+10. Metadata
+Check for any additional metadata like the building name, project title, or creator information, if needed for classification.

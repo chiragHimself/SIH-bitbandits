@@ -1,0 +1,34 @@
+Guidelines for Pharmacy Degree Institutions (Room and Space Requirements)
+Room Dimensions and Carpet Area:
+
+Class Rooms: 66 sqm per room.
+Tutorial Rooms: 33 sqm per room.
+Laboratories (Includes Machine Room & Instrumentation Room): 75 sqm per room.
+Research Laboratories: 75 sqm per room.
+Animal House: 75 sqm.
+Computer Center: 75 sqm.
+Library & Reading Room: 150 sqm.
+Seminar Hall: 132 sqm.
+Number of Rooms Required (For New Institutions):
+
+Class Rooms: Equal to A (number of divisions per class of 18 students).
+Tutorial Rooms: Calculated as C = A.
+Laboratories: Calculated as D = C/4 (rounded to the nearest integer).
+Laboratories (Includes Machine Room & Instrumentation Room): 4 per course.
+Animal House, Computer Center, Library & Reading Room, and Seminar Hall: 1 each.
+Total Number of Rooms (UG):
+
+Class Rooms: Equal to A.
+Tutorial Rooms: Equal to C = A × 4.
+Laboratories: Calculated as D = C/4 × 12.
+Other facilities (Animal House, Computer Center, Library & Reading Room, Seminar Hall): 1 each.
+Total Number of Rooms (PG):
+
+Total rooms: F = 2 × H, where H = 1 per specialization.
+Laboratories: 1 per specialization.
+Key Notes:
+
+Laboratories include Machine Room & Instrumentation Room.
+Classrooms, Tutorial Rooms, and Laboratories required for 2nd, 3rd, and 4th-year programs may be added progressively (calculated as 3+3+2).
+UG laboratories shared for PG courses must be upgraded to meet PG curriculum requirements.
+Fractions in calculations must be rounded to the next integer.

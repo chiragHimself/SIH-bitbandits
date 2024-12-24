@@ -1,0 +1,44 @@
+General Room Requirements for Engineering/Technology Institutes
+Each classroom must have a minimum carpet area of 66 sqm.
+Each tutorial room must have a minimum carpet area of 33 sqm.
+Each PG laboratory must have a minimum carpet area of 66 sqm.
+Each research laboratory must have a minimum carpet area of 66 sqm.
+Each workshop must have a minimum carpet area of 200 sqm.
+Additional workshops or laboratories must have a minimum carpet area of 200 sqm.
+Each computer center must have a minimum carpet area of 150 sqm.
+Each drawing hall must have a minimum carpet area of 132 sqm.
+The library and reading room must have a minimum carpet area of 400 sqm.
+Each seminar hall must have a minimum carpet area of 132 sqm.
+Formula-Based Room Calculations
+For a new institution, 4 classrooms are required per UG course.
+For a new institution, tutorial rooms are calculated as the number of classrooms divided by 4 (C ÷ 4).
+PG laboratories are required as 1 per specialization.
+For UG courses, 10 PG laboratories per course are required.
+For workshops, 1 workshop per course is required for new institutions.
+For workshops, 2 workshops per course are required, with a maximum of 4 workshops.
+Each UG course must have 1 additional workshop or lab.
+Each computer center must have 1 dedicated room.
+Each drawing hall must have 1 dedicated room.
+The library and reading room must have 1 dedicated room.
+Each seminar hall must have 1 dedicated room.
+Special Rules for PG Courses
+For PG courses, the total number of rooms is calculated as the number of PG specializations multiplied by 2 (F × 2).
+Shared UG laboratories must be upgraded to meet the requirements of PG courses.
+Progressive Requirements and Scaling
+Classrooms, tutorial rooms, and laboratories required for 2nd, 3rd, and 4th years may be added progressively based on student intake.
+Additional library (reading room) space of 50 sqm per 60 students (UG + PG) is required if the total intake exceeds 420 students.
+For 2nd-year and onward labs, the progressive requirement must be calculated as 3+3+2 labs per course.
+Handling Additional Divisions
+When the number of divisions exceeds 2 per course, an additional 5 labs per course are required.
+For all calculations involving room counts, any fractional results must be rounded up to the next integer.
+Categories of Courses
+Category X courses include:
+Mechanical
+Production
+Civil
+Electrical
+Chemical
+Textile
+Marine
+Aeronautical
+Other allied courses of each.
