@@ -1,0 +1,30 @@
+Validate the Aadhaar Number Format:
+
+Aadhaar numbers are 12 digits, divided into a specific format of 3 sections of 4 digit each
+Ensure no alphabetic or special characters are present.
+Use the Verhoeff algorithm for Aadhaar, which is a checksum algorithm used to validate the authenticity of the 12-digit Aadhaar number.
+Verify the Date of Birth (DOB) Format:
+
+Check that the DOB format is either DD/MM/YYYY or YYYY, as per Aadhaar card standards.
+Ensure the DOB is reasonable and matches the general age appearance in the document.
+Check for the Presence of Key Identifiers:
+
+The terms "Unique Identification Authority of India" or "UIDAI" should be present, as they appear on all genuine Aadhaar cards.
+Look for the Aadhaar logo (if image analysis is included), which is a characteristic symbol present on all Aadhaar cards.
+Name and Gender Consistency:
+
+Names should typically contain only alphabets and spaces; suspicious characters may indicate tampering.
+The gender field should be either Male, Female, or Other. Verify consistency between gender and photo (if available).
+Check QR Code Presence:
+
+Authentic Aadhaar cards have a QR code containing encoded data. If the QR code is available, consider using it to cross-verify the extracted information against the data encoded in the QR code.
+Address Format Consistency:
+
+Verify that the address section follows a standard format, often containing the house number, street, locality, city, state, and PIN code.
+The PIN code should be a valid 6-digit code; verify if it corresponds to a real postal code in India.
+Language Consistency:
+
+Aadhaar cards are typically bilingual (in English and one regional language). Ensure the content is in a combination of English and a recognized regional language.
+Detecting Overlaps and Misalignment:
+
+Often, fake Aadhaar cards show signs of digital tampering, such as overlapping text, irregular fonts, or misaligned fields. If using image analysis, check for these inconsistencies.

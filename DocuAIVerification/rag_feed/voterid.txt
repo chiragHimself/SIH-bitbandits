@@ -1,0 +1,28 @@
+Updated Verification Guidelines for Indian Voter ID
+Here’s a revised set of guidelines for verifying an updated Voter ID in the EPIC format:
+
+Format Check:
+
+Ensure the Voter ID number follows the structure AAA###### where:
+The first three characters are uppercase letters (A–Z).
+The following seven characters are digits (0–9).
+Example formats: URO3790003, XYP1234567.
+Verification of State Code (if applicable):
+
+In some cases, the first three letters may indicate the state code (e.g., DEL for Delhi, WB for West Bengal).
+Verify that the first three letters match known codes for Indian states and territories, if this information is available.
+Check for Issue Date and Signature:
+
+The card should have an issue date or signature/seal of the issuing authority.
+Cross-check this date for validity (it should not be a future date).
+Photograph and Basic Information:
+
+The ID should contain the voter's photograph and basic details (name, father’s/husband's name, age or date of birth, and gender).
+Ensure all information matches the details submitted by the user.
+Hologram and Security Features:
+
+Newer cards may contain holograms, QR codes, or other security features that make the card harder to counterfeit.
+Ensure these security features appear as expected on authentic voter IDs.
+Cross-reference with Government Database (if accessible):
+
+Ideally, perform an online check with the Election Commission of India database to validate the Voter ID against government records (optional if the model has database access).

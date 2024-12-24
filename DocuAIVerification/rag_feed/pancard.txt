@@ -1,0 +1,33 @@
+Rules for Verifying a PAN Card (India)
+The PAN card has unique identifiers and a specific format under the rules of the Income Tax Department in India. Here’s how the model should validate PAN cards:
+
+Card Format and Structure:
+
+The PAN number should have a 10-character alphanumeric format (e.g., ABCDE1234F), where:
+The first five characters are uppercase letters.
+The next four characters are digits.
+The last character is an uppercase letter.
+Check if the PAN number follows the correct sequence and is visible clearly on the card.
+Details to Verify:
+
+Name: Verify that the name matches the format, generally in uppercase letters without any special characters.
+Father’s Name: The father’s name is typically included. Ensure it appears in uppercase letters and in a reasonable format.
+Date of Birth: Should appear in DD-MM-YYYY format. Validate that the date of birth is consistent with the age and matches general expectations (e.g., not a future date).
+Document Fields:
+
+PAN Number: This is the most critical part of the PAN card. Ensure the format of the PAN number (5 letters, 4 digits, 1 letter) is correct and follows the rules.
+Signature: Check if the signature of the cardholder is present in the designated area, as it is an essential verification element on PAN cards.
+Government Emblems and Security Features:
+
+Verify the presence of the Government of India emblem on the PAN card.
+Look for additional security features, such as a hologram and watermark, to prevent counterfeits.
+Check for signs of tampering or modifications (like blurred or altered text), which can indicate a fake or altered card.
+Language:
+
+PAN cards are usually in English, so verify that all text is in English and follows consistent formatting.
+Database Cross-Validation (If Available):
+
+Cross-check the PAN details against an official government database to confirm authenticity. (For real-world applications, this may involve accessing the Income Tax Department’s API.)
+Additional Unique Identifiers (for New PAN Cards):
+
+Some newer PAN cards may include a QR code. If present, decode and validate the QR code details against the card’s visible information.
